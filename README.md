@@ -8,6 +8,8 @@ Step
 4. Include javascript resource file in js file  
 5. Read resource string with [ResourceFile].[ResourceKey]  
 
+<img src="http://larrynung.github.io/images/posts/T4JSResource/3.png">
+
 Link
 ----
 * [T4 Template - JsResource.tt - Level Up](http://larrynung.github.io/2016/03/21/t4-template-jsresource-dot-tt/)
