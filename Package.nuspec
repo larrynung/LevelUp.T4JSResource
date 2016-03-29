@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LevelUp.T4JSResource</id>
+    <version>1.0.0</version>
+    <authors>LarryNung</authors>
+    <owners>LarryNung</owners>
+    <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/larrynung/LevelUp.T4JSResource</projectUrl>
+    <description>Generate javascript resource file from .NET resource file</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>T4 javascript Resource</tags>
+  </metadata>
+    <files>
+    <file src="T4JSResource.tt" target="Content" />
+  </files>
+</package>
