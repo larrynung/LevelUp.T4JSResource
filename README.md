@@ -5,7 +5,7 @@ Step
 1. Add LevelUp.T4JSResource from nuget  
 2. Store resource file in App_GlobalResources folder  
 3. Run T4 template to generate javascript resource file  
-4. Bundle or minify js file
+4. Bundle or minify js file  
 5. Include javascript resource file in js file  
 6. Read resource string with [ResourceFile].[ResourceKey]  
 
